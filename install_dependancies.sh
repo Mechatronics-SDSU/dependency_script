@@ -4,7 +4,7 @@ sudo apt install -y busybox
 pip3 install yolov5==7.0.13
 pip3 install argparse==1.4.0
 pip3 install inputs==0.5
-pip3 install can==0.0.0
+pip3 install python-can==3.3.3
 
 git clone https://github.com/Package-Repository/install.git
 
