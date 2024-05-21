@@ -1,5 +1,6 @@
 sudo apt install -y python3.11
 sudo apt install -y python3-pip
+sudo apt install -y busybox
 pip3 install yolov5==7.0.13
 pip3 install argparse==1.4.0
 pip3 install inputs==0.5
