@@ -5,6 +5,8 @@ pip3 install yolov5==7.0.13
 pip3 install argparse==1.4.0
 pip3 install inputs==0.5
 pip3 install python-can==3.3.3
+pip3 install cffi==1.16.0
+pip3 install onnx==1.16.1
 
 git clone https://github.com/Package-Repository/install.git
 
