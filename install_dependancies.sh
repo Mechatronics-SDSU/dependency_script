@@ -7,6 +7,7 @@ pip3 install inputs==0.5
 pip3 install python-can==3.3.3
 pip3 install cffi==1.16.0
 pip3 install onnx==1.16.1
+pip3 install pdoc3==0.11.1
 
 git clone https://github.com/Package-Repository/install.git
 
