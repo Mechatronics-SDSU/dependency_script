@@ -9,7 +9,7 @@ pip3 install cffi==1.16.0
 pip3 install onnx==1.16.1
 pip3 install pdoc3==0.11.1
 
-git clone https://github.com/Package-Repository/install.git
+git clone https://github.com/Mechatronics-SDSU/launch.git
 
 wget https://download.stereolabs.com/zedsdk/4.1/l4t36.2/jetsons
 chmod 777 jetsons
