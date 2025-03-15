@@ -1,0 +1,7 @@
+yolov5==7.0.13
+argparse==1.4.0
+inputs==0.5
+python-can==3.3.3
+cffi==1.16.0
+onnx==1.16.1
+pdoc3==0.11.1
