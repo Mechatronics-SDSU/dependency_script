@@ -3,6 +3,7 @@
 sudo apt install -y python3.11
 sudo apt install -y python3-pip
 sudo apt install -y busybox
+sudo apt install -y screen
 pip3 install -r requirements.txt
 
 git clone https://github.com/Mechatronics-SDSU/launch.git
